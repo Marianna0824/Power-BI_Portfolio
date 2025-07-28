@@ -14,6 +14,6 @@ Interaktív bűnözési elemző dashboard Washington D.C. hivatalos bűnügyi ad
 - Dinamikus szűrés bűncselekménytípus és helyszín alapján
 - Grafikonok, KPI kártyák és hőtérképek trendekhez
 
-📂 [Projekt mappa megnyitása](./WashingtonCrime)
-
-![Dashboard képernyőkép](./WashingtonCrime/washington_dashboard.png)
+📋 [README megnyitása](./Washington_Crime/README.md)  
+🖼️ [Dashboard képernyőkép](./Washington_Crime/washington_dashboard.png)  
+📂 [Projekt mappa megnyitása](./Washington_Crime)
