@@ -21,8 +21,7 @@ Power BI segítségével interaktív dashboardot készítettem, amelyben több n
 
 Az adatok vizualizálása során törekedtem arra, hogy az elemzések átláthatóak és könnyen értelmezhetőek legyenek, akár egy döntéshozó, akár egy érdeklődő számára.
 
-![Dashboard kép](Washington_Crime/washington_dashboard.png)
-
+![Dashboard kép](Washington_Crime/washington_DC_crime.png)
 
 ## ❓ Megválaszolt kérdések
 
