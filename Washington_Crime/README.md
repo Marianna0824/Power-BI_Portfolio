@@ -25,7 +25,7 @@ Az adatok vizualizálása során törekedtem arra, hogy az elemzések átláthat
 
 ## ❓ Megválaszolt kérdések
 
-A dashboard célja az alábbi főbb kérdések vizsgálata volt:
+A dashboard célja az alábbi kérdések vizsgálata volt:
 
 - Hány bűncselekményt jelentettek be az adott időszakban?    
 - Mikor történik a legtöbb bűncselekmény? (napszakok szerint)  
