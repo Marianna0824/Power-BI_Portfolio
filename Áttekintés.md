@@ -12,7 +12,7 @@ Interaktív bűnözési elemző dashboard Washington D.C. hivatalos bűnügyi ad
 ✅ **Főbb jellemzők:**
 - Adattisztítás és átalakítás Power Query segítségével
 - Dinamikus szűrés bűncselekménytípus és helyszín alapján
-- Grafikonok, KPI kártyák és hőtérképek trendekhez
+- Grafikonok, KPI kártyák és hőtérképek a trendekhez
 
 📋 [README megnyitása](./Washington_Crime/README.md)  
 🖼️ [Dashboard képernyőkép](./Washington_Crime/Washington_DC_crime.png)  
