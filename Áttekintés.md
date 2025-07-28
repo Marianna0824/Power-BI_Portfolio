@@ -15,5 +15,5 @@ Interaktív bűnözési elemző dashboard Washington D.C. hivatalos bűnügyi ad
 - Grafikonok, KPI kártyák és hőtérképek trendekhez
 
 📋 [README megnyitása](./Washington_Crime/README.md)  
-🖼️ [Dashboard képernyőkép](./Washington_Crime/washington_dashboard.png)  
+🖼️ [Dashboard képernyőkép](./Washington_Crime/Washington_DC_crime.png)
 📂 [Projekt mappa megnyitása](./Washington_Crime)
