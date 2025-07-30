@@ -17,3 +17,17 @@ Interaktív bűnözési elemző dashboard Washington D.C. hivatalos bűnügyi ad
 📋 [README megnyitása](./Washington_Crime/README.md)  
 🖼️ [Dashboard képernyőkép](./Washington_Crime/Washington_DC_crime.png)  
 📂 [Projekt mappa megnyitása](./Washington_Crime)
+
+
+### MavenTech Quarterly Sales Summary
+Interaktív értékesítési riport a MavenTech csapat belső CRM-adatainak elemzésére.
+
+✅ **Főbb jellemzők:**
+
+- Adattisztítás Power Queryvel
+- KPI-k, trendek szemléltetése, nyert/vesztett ügyletek és termékek szerinti bontás
+- Interaktív szűrés értékesítő, időszak és termékkategória alapján
+  
+📋 [README megnyitása](./MavenTech_Sales/README.md)  
+🖼️ [Dashboard képernyőkép](./MavenTech_Sales/MavenTech_sales.png)  
+📂 [Projekt mappa megnyitása](./MavenTech_Sales)  
