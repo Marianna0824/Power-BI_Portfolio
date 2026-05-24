@@ -22,7 +22,7 @@ A dashboard többek között az alábbi kérdésekre ad választ:
 - Vannak-e jelentős különbségek az alkalmazottak teljesítménye között?
 - Hogyan oszlik meg a bevétel különböző korcsoportok között?
 
-![Dashboard képernyőkép](Grocery_Sales/analysis.png)
+![Dashboard képernyőkép](./Grocery_Sales/analysis.png)
 --- 
 
 ## 🛠️ Használt technológiák
