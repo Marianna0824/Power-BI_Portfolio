@@ -37,7 +37,7 @@ A dashboard többek között az alábbi kérdésekre ad választ:
 
 ---
 
-## 🔧 Saját feladatok
+## 🔧 Feladatok
 
 - Adattisztítás és adattranszformáció
 - Adatmodellezés Power BI környezetben
@@ -70,6 +70,3 @@ Oldalak:
 
 Minden oldal eltérő nézőpontból támogatja az értékesítési adatok elemzését.
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
