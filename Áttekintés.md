@@ -6,6 +6,22 @@ Az alábbiakban megtalálod a projektjeimet, külön mappákba rendezve. Minden 
 
 ## 📌 Projektek
 
+### Grocery Sales Analysis
+
+Interaktív Power BI dashboard, amely egy élelmiszer-kiskereskedelmi vállalat értékesítési adatait vizsgálja különböző nézőpontokból, például termékek, városok és alkalmazotti teljesítmények alapján.
+
+✅ **Főbb jellemzők:**
+
+- Többoldalas interaktív dashboard kialakítása
+- KPI-ok és értékesítési trendek vizualizálása
+- Interaktív slicerek és szűrők használata
+- Egyedi dashboard design és AI-generált vizuális elemek
+- Termék-, város- és employee teljesítmények összehasonlítása
+
+📋 [README megnyitása](./Grocery_Sales/README.md)  
+🖼️ [Dashboard képernyőkép](./Grocery_Sales/Grocery_Sales.pdf)  
+📂 [Projekt mappa megnyitása](./Grocery_Sales)  
+
 ### Washington D.C. Crime Statistics
 Interaktív bűnözési elemző dashboard Washington D.C. hivatalos bűnügyi adatai alapján.
 
